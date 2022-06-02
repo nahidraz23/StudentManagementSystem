@@ -1,0 +1,2 @@
+# StudentManagementSystem
+I have done this project for my AOOP Lab course. This is a very simple student management system project written in JAVA and file I/O. Where admin can add new student to the system and create password for their account. And Student can login using the password to the system then submit their covid vaccine report and register and delete new course. This project is not fully ready. I am still working on this project to make the project more dynamic.
